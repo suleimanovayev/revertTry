@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven-a-bank-snaphot" />
+      <option name="name" value="maven-a-bank-snaphot" />
+      <option name="url" value="http://nexus.ab.loc/repository//maven-a-bank-snaphot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-a-bank-release" />
+      <option name="name" value="maven-a-bank-release" />
+      <option name="url" value="http://nexus.ab.loc/repository//maven-a-bank-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_libsReleaseLocal" />
+      <option name="name" value="nexus_libsReleaseLocal" />
+      <option name="url" value="http://nexus.ab.loc/repository//libs-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_snapshots" />
+      <option name="name" value="nexus_snapshots" />
+      <option name="url" value="http://nexus.ab.loc/repository//snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_expsys_snapshot" />
+      <option name="name" value="nexus_expsys_snapshot" />
+      <option name="url" value="http://nexus.ab.loc/repository//Expsys_snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gradle_libs_cache" />
+      <option name="name" value="gradle_libs_cache" />
+      <option name="url" value="http://nexus.ab.loc/repository//gradle-libs-cache/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_M2" />
+      <option name="name" value="nexus_M2" />
+      <option name="url" value="http://nexus.ab.loc/repository//M2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_expsys" />
+      <option name="name" value="nexus_expsys" />
+      <option name="url" value="http://nexus.ab.loc/repository//Expsys/" />
+    </remote-repository>
+  </component>
+</project>
